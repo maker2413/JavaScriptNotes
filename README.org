@@ -1,0 +1,10 @@
+#+TITLE: JavaScript Notes
+
+This repository is a playground for me to learn and try to take notes on things
+I have learned while re learning JavaScript. I have learned JavaScript a couple
+of times in the past and will probably gloss over most of the basics. For some
+notes on the fundamentals of JavaScript you can look at my old guide on
+JavaScript here: [[https://notes.ethancpost.com/javascript.html]].
+
+I'm currently working on this course on Udemy to refresh my skills on
+JavaScript: [[https://www.udemy.com/course/the-complete-javascript-course/]].
